@@ -1,5 +1,8 @@
 # Project: Predicting NFL Success from College Football Performance
 
+## Project Overview
+This project analyzes how high school recruiting ratings and college performance metrics translate into early NFL career success for quarterbacks and running backs. The analysis focuses on identifying which college production and efficiency measures most strongly predict professional outcomes.
+
 ## Business Problem
 How accurately do college production metrics predict early NFL career success for quarterbacks and running backs?
 
